@@ -1,0 +1,14 @@
+.gamer {
+    background-color: lime;
+}
+
+.streamer {
+    background-color: tomato;
+}
+
+.highliteGamer {
+    border: 10px solid blue;
+}
+.highlightedStreamer {
+    border: 10px dotted violet;
+}
